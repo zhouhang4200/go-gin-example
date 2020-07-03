@@ -4,13 +4,13 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
+	_ "github.com/zhouhang4200/go-gin-example/docs"
 	"github.com/zhouhang4200/go-gin-example/middleware/jwt"
 	"github.com/zhouhang4200/go-gin-example/pkg/export"
 	"github.com/zhouhang4200/go-gin-example/pkg/setting"
 	"github.com/zhouhang4200/go-gin-example/pkg/upload"
 	"github.com/zhouhang4200/go-gin-example/routers/api"
 	"github.com/zhouhang4200/go-gin-example/routers/api/v1"
-	_ "go-gin-example/docs"
 	"net/http"
 )
 
