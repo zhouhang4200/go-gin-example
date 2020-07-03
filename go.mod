@@ -1,4 +1,4 @@
-module go-gin-example
+module github.com/zhouhang4200/go-gin-example
 
 go 1.14
 
