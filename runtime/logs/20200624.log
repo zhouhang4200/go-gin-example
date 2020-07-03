@@ -1,0 +1,3 @@
+[WARN][upload.go:22]2020/06/24 11:48:19 [request Content-Type isn't multipart/form-data]
+[WARN][upload.go:22]2020/06/24 11:51:52 [request Content-Type isn't multipart/form-data]
+[WARN][upload.go:22]2020/06/24 11:52:13 [http: no such file]
